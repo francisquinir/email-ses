@@ -1,0 +1,13 @@
+{
+  "name": "aws-ses sending email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "author": "Rodrigo Francisquini",
+  "dependencies": {
+    "aws-sdk": "^2.206.0"
+  }
+}
